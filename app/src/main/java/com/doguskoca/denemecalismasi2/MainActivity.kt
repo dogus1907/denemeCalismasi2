@@ -14,4 +14,8 @@ class MainActivity : AppCompatActivity() {
     // Proje sunusu kontrol edilmektedir.
 
     // Denemeler devam ediyor
+
+    // İlave commit için kontrol edilmektedir.
+
+    // 9.28 kontroller sağlanıyor.
 }
